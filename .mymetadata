@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="stuman"
+  id="myeclipse.1577672736903"
+  context-root="/stuman"
+  j2ee-spec="5.0"
+  archive="stuman.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
